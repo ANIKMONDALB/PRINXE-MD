@@ -9,12 +9,12 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "918617340627;❣️Prince"
       },
      "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
        },
      "HKEY": {
       "description": "Put your Heroku API key Here",
@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -104,7 +104,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~xowXTIpQ#w9HSrbLw7gdubmTA273WSv8Td6IfQZjracqELmTz20E"
     }
     
    
